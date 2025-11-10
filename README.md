@@ -44,7 +44,7 @@ And also a shoutout to [Chu-Tak Li](https://chutakcode.wixsite.com/website) for 
 
 - Install tensorflow toolkit [neuralgym](https://github.com/JiahuiYu/neuralgym).
 
-      !pip install git+https://github.com/JiahuiYu/neuralgym
+      !pip install git+https://github.com/nirnayroy/neuralgym
 
 - Download the model dirs using this [link](https://drive.google.com/drive/folders/1xRV4EdjJuAfsX9pQme6XeoFznKXG0ptJ?usp=sharing) and put it under `model/` (rename `checkpoint.txt` to `checkpoint` because sometimes google drive automatically adds .txt after download)
 
